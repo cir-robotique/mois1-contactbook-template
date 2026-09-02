@@ -90,3 +90,5 @@ Soumettre sur Moodle avant la deadline :
 - Le fichier `.env` ne doit **jamais** être committé sur GitHub
 - Au moins **10 commits** avec des messages explicites
 - L'application doit fonctionner depuis les URLs de production
+
+📄 [Télécharger l'énoncé complet (PDF)](docs/Mois1-ContactBook-Enonce.pdf)
